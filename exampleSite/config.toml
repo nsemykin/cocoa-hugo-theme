@@ -40,3 +40,13 @@ extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove
 # The following are DEPRECATED.
 gatracker              = "XYZ" # use googleAnalytics instead
 initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
+
+[[menu.main]]
+name = "blog"
+url = "/blog/"
+weight = 1
+
+[[menu.main]]
+name = "about"
+url = "/about/"
+weight = 2

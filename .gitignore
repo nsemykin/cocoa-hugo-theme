@@ -1,6 +1,7 @@
 # Mac
 .DS_Store
 */**/.DS_Store
+.idea/
 
 # exampleSite
 exampleSite/public
